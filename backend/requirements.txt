@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+chromadb
+sentence-transformers
+langgraph
+langchain-ollama
+requests
+pytest
+scikit-learn
+python-multipart
